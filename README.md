@@ -1,7 +1,7 @@
-# aboutMeOne
-Landing page about me, mede with CSS, HTML, JS, Jquery and Bootstrap 5.
+# Factura Verde
+Landing page MVP, memed with CSS, HTML, JS, Jquery and Bootstrap 5.
 
 
 # Links
-The page is hosted on: https://chrisvimu.github.io/aboutMeOne/
+The page is hosted on: https://factura-verde.github.io/landingPageFV/
 Fell free to visit! :)
